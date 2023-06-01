@@ -1,6 +1,6 @@
 
 
-
+##Todos os projetos desse git é projetos pessoais sem viculo com equipe
 
 - 🔭 I’m currently working on equipe de freelancer
 - 🌱 I’m currently learning php 
